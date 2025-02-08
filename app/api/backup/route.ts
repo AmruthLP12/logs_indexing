@@ -13,7 +13,7 @@ export async function GET(req: Request, res: Response) {
     }
 
     // Define backup directory
-    const backupDir = path.join(process.cwd(), "backup");
+    const backupDir = path.join("D:\\Next\\logs_indexing\\logsback", "backups");
 
     // Ensure backup directory exists
     if (!fs.existsSync(backupDir)) {

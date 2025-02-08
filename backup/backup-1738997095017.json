@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "67a6f7e50eb42729b296a78d",
+    "user_id": "67a6f68d0eb42729b296a789",
+    "log": "User already exists",
+    "date": "2025-02-08T06:21:25.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "67a6f84e0eb42729b296a791",
+    "user_id": "67a6f68d0eb42729b296a789",
+    "log": "User logged in",
+    "date": "2025-02-08T06:23:10.210Z",
+    "__v": 0
+  }
+]
